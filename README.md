@@ -4,7 +4,7 @@
 
 * cd hngi9-bonus-task
 
-* npm instll
+* npm install
 
 * node index
 
