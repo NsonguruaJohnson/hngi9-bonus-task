@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "adom kulu",
+    "description": "A ghanaian model; proud of his culture.",
+    "minting_tool": "",
+    "filename": "adom-kulu",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 80,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " opened"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " irritated"
+        },
+        {
+            "trait_type": "strength",
+            "value": " height"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " pride"
+        }
+    ],
+    "UUID": "00f6589e-59d3-11ed-9b6a-0242ac120002",
+    "hash": "2da2ce4c9c15db16c3c92e56eab1b76c05c1e06a5d0bd9b66839a367ad05c7cc"
+}

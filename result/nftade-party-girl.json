@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "ade party girl",
+    "description": "The life of every party.",
+    "minting_tool": "",
+    "filename": "ade-party-girl",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 88,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " gap-tooth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " one-sleeved blue top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " scary"
+        },
+        {
+            "trait_type": "strength",
+            "value": " adventurous"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " impulsive"
+        }
+    ],
+    "UUID": "7e3db30c-9faf-430d-ab48-b854fe0456b9",
+    "hash": "aca7bb5d7cce460abf1a357a65877fae71a3073766ce11199ead0cdd7c98b862"
+}

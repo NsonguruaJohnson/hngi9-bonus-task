@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "blind tonia",
+    "description": "A girl that lost one of her eyes in a street fight.",
+    "minting_tool": "",
+    "filename": "blind-tonia",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 202,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " one"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " blouse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " smiling"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "4a5f4c6d-d0dd-4b71-b095-86ef11910962",
+    "hash": "2114e40443c9d539bcad5816f69ad2229ba466e5478133f30ea56f94d45f6333"
+}

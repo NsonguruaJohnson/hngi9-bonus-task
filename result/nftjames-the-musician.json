@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "james the musician",
+    "description": "A Nigerian based musician who host shows",
+    "minting_tool": "",
+    "filename": "james-the-musician",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 291,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown eyes"
+        }
+    ],
+    "UUID": "0d4ad447-3836-47cd-8387-066b200cda01",
+    "hash": "5d0b6432a2f23a0af8cc9eda0a92fa3e91abc8604fe5c514ff3b5aa557ca242e"
+}

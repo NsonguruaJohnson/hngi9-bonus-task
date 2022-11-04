@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "kariuki the prayerful one",
+    "description": "kariuki closes his eyes",
+    "minting_tool": "",
+    "filename": "kariuki-the-prayerful-one",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 334,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " closed eyes teeth"
+        }
+    ],
+    "UUID": "6a5b6fa6-0f91-4b01-957f-c766945eb704",
+    "hash": "1319d65e784defaf90c4dc42678504149fec98231fbab1c82a0cfb0904c996c9"
+}

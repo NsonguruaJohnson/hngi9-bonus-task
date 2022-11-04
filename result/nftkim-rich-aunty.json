@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "kim rich aunty",
+    "description": "She loves spoiling her nieces and nephew.",
+    "minting_tool": "TEAM ENGINE",
+    "filename": "kim-rich-aunty",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 41,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " pink"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "food"
+        }
+    ],
+    "UUID": "3344a73c-f15e-4afd-a1b2-3199e27eb08f",
+    "hash": "21c7a670d7a7ac49f2ec2cdecff293ed81cae65cc18b7fb07039c43500f1de1e"
+}

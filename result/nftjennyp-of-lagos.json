@@ -1,0 +1,27 @@
+{
+    "format": "CHIP-0007",
+    "name": "jennyp of lagos",
+    "description": "A well known celebrity in Lagos",
+    "minting_tool": "",
+    "filename": "jennyp-of-lagos",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 192,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none  teeth"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " sleeping"
+        }
+    ],
+    "UUID": "7241bf1e-59da-11ed-9b6a-0242ac120002",
+    "hash": "8cb71b35670a3e7d18e099ec6e50b5fc95f9bad8fe9acd2524f6c77c6eb2c24d"
+}

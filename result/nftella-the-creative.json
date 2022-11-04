@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "elle the creative",
+    "description": "Ella is a smart, resourceful and an intellligent copywriter in a marketing firm.",
+    "minting_tool": "",
+    "filename": "ella-the-creative",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 394,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " light brown cornrows"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " patterned isiagu"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": " blank"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55",
+    "hash": "b365d54035ddc3a613e2eb3f3055d7a639f3cde097cdcbc030fd8e0d9d5313cf"
+}

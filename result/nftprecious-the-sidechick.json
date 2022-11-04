@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "precious the sidechick",
+    "description": "Precious can be found in every happening party in the cities of Lagos & Abuja. A Small girl with a big God.",
+    "minting_tool": "",
+    "filename": "precious-the-sidechick",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 393,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black knob"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " patterned kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " berret and glasses and gum"
+        },
+        {
+            "trait_type": "expression",
+            "value": " unbothered"
+        },
+        {
+            "trait_type": "stength",
+            "value": " foresight"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " wine"
+        }
+    ],
+    "UUID": "ca720bf9-5e47-4421-b38f-bc62162ae99e",
+    "hash": "18a97d3e03e382ad9f2007bf1872685a6e580e96fa40c19b57bc1133fd389ab0"
+}

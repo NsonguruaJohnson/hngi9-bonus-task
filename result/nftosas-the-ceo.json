@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "osas the ceo",
+    "description": "Meet Osas; a Gen-Z CEO with the British accent.",
+    "minting_tool": "TEAM VBELT",
+    "filename": "osas-the-ceo",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 361,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " purple dreadlocks"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " danshiki"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " gold glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "b10f7e42-4778-49db-820b-dabbad75504a",
+    "hash": "8f7c6b65709eee3b81cd3a427debf3f84dd0167540ee7dc2e051dbadcc7cfff6"
+}

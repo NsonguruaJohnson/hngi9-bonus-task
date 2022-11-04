@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "fayo the yorubademon",
+    "description": "Fayo is a yoruba demon with excellent communication skills.",
+    "minting_tool": "",
+    "filename": "fayo-the-yorubademon",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 110,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " opened"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " africa print"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " determined"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " steals"
+        }
+    ],
+    "UUID": "e270e278-a9b5-408d-b527-d518239a997b",
+    "hash": "8790a3ac409f0f6ca34551dd82d9e5e0c54c259b0826cc2d59b29ea1a0167f82"
+}

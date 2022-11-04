@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "buffy the vampire",
+    "description": "A vampire diary protagonist that got bitten by a vampire in real life.",
+    "minting_tool": "",
+    "filename": "buffy-the-vampire",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 203,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " small"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " two"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " shirt"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " biting"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "bd329fd7-dd90-4180-a7a7-03e2d41535cb",
+    "hash": "56a2a9ce857ed257e8477bb728462d624218e91b088dc4e3df13ea7bcbc68e44"
+}

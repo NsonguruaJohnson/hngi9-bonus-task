@@ -1,0 +1,51 @@
+{
+    "format": "CHIP-0007",
+    "name": "friday the bigsboy",
+    "description": "Friday always live up to his name. Every Friday is for the party.",
+    "minting_tool": "",
+    "filename": "friday-the-bigsboy",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 176,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " orange afro"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black iris"
+        },
+        {
+            "trait_type": "skin color",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " aso oke"
+        },
+        {
+            "trait_type": "expression",
+            "value": " unconcerned"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " cigrette in mouth"
+        },
+        {
+            "trait_type": "strength",
+            "value": " money in pocket"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " sense of responsibility"
+        }
+    ],
+    "UUID": "05ec3aae-7da8-4125-93fb-6fc544e5bc61",
+    "hash": "2673655cbc574e5a50b30b384be20bbc0ec136264e167e49c1a576239934b9d9"
+}

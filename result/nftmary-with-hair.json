@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "mary with hair",
+    "description": "Mary with her beautiful Afro.",
+    "minting_tool": "",
+    "filename": "mary-with-hair",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 139,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " casual ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "scared"
+        },
+        {
+            "trait_type": "strength",
+            "value": "sensitive"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " fearful"
+        }
+    ],
+    "UUID": "98035e8b-6540-4464-8a3c-fdac9f07b168",
+    "hash": "77417035e5bd7ce4d5f25b7b0e87de4bd43c6e7643f4550ca41af6899a7b2400"
+}

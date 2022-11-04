@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "olebon the oloibon",
+    "description": "olebon in customized buba sokoto",
+    "minting_tool": "",
+    "filename": "olebon-the-oloibon",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 330,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " closed teeth"
+        }
+    ],
+    "UUID": "de261efe-731d-461e-b2e4-42edd2f48f72",
+    "hash": "deb03669fb9e9567955303218a264eb2f828440bc02cc83824884f64e44ec55f"
+}

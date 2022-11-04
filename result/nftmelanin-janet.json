@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "melanin janet",
+    "description": "A young lady with a soft personality.",
+    "minting_tool": "",
+    "filename": "melanin-janet",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 224,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brownish pink"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " english-ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " calm"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "a5a2854e-a850-4b15-b3c3-176a79b2d34b",
+    "hash": "cc6d1ac161654b49dd901c1e8e6ca8b86aae7f2dc6d1525b0b0b3160d4c24e49"
+}

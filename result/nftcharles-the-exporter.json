@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "charles the exporter",
+    "description": "Charles a business man an importer and exporter never to be caught idle.",
+    "minting_tool": "",
+    "filename": "charles-the-exporter",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 24,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " grey"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " orange and blue"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " okpu ozo cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": " happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": " influential"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " incessant"
+        }
+    ],
+    "UUID": "09395e76-19ed-4852-8748-795ee7496a8e",
+    "hash": "d855354a0e2a7aee58218e203aac6b8d41de07a32dab75495ab33e2efe13b101"
+}

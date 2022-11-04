@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "gasira the violence mama",
+    "description": "Sister Gasira; wipes people Oraimo cord for a living.",
+    "minting_tool": "",
+    "filename": "gasira-the-violence mama",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 378,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " vampire teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " right one-shoulder wax print"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "ea72337f-658f-4198-9ad6-39bc6212c20d",
+    "hash": "ea3aed8b2850eb07b2f53501ba308ebca5765d7d49e62d85b4752bea7b7f1c30"
+}

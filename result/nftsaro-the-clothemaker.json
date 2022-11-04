@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "saro the clothemaker",
+    "description": "The yoruba man that stole the king's wife.",
+    "minting_tool": "",
+    "filename": "saro-the-clothemaker",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 298,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " covered eyes"
+        }
+    ],
+    "UUID": "7e10af4e-1252-4f96-83a8-78411e152bae",
+    "hash": "2eb06dd8765ce16c26517274f36c5c12aed144cf50cb3376180fc03e5a18ca6c"
+}

@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "kenyanese the priest",
+    "description": "masked up man with with white cloth",
+    "minting_tool": "",
+    "filename": "kenyanese-the-priest",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 335,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " white teeth"
+        }
+    ],
+    "UUID": "0706c338-42eb-4d26-84ea-c24b39628200",
+    "hash": "147c8d0d0d27454379ee178c331d0f1428bdd5de79788d9478e673a577e876f1"
+}

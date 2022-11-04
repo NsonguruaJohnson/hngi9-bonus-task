@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "maathai the nobel winner",
+    "description": "mathaai the warrior",
+    "minting_tool": "",
+    "filename": "maathai-the-nobel-winner",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 337,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " pink afro"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " glassed up teeth"
+        }
+    ],
+    "UUID": "0871cb8c-8d56-445d-92c7-01793f327707",
+    "hash": "1dd31bab8dbd0e0643f71c5de229455b5d30f6bdf090faa12f5b5832881b9246"
+}

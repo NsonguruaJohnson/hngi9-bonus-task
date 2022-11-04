@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "mrosho the runner",
+    "description": "masked up mrosho",
+    "minting_tool": "",
+    "filename": "mrosho-the-runner",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 328,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " sea blue teeth"
+        }
+    ],
+    "UUID": "b2ca2c76-3b6d-43f1-8cc9-089b6ab83876",
+    "hash": "ffa11e9fcda6e4b14996645f8ebe1b6a34e3d911482ac0ec011d9d12dcc10850"
+}

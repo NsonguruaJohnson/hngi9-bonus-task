@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "emeka the clown",
+    "description": "Emeka the funny man; always making silly joke.",
+    "minting_tool": "",
+    "filename": "emeka-the -clown",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " yellow and black ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": " straight face"
+        },
+        {
+            "trait_type": "strength",
+            "value": " funny"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " little physique"
+        }
+    ],
+    "UUID": "78810fa6-a7ef-4d83-bf57-caf49db4ee69",
+    "hash": "a02d258304db43a02ef4aade04ce85d0388b2321e1c1f2d0a2e8577fd5c0efee"
+}

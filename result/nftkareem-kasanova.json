@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "kareem kasanova",
+    "description": "Abuja big boy who knows he can get any lady he wants.",
+    "minting_tool": "",
+    "filename": "kareem-kasanova",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 252,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " agbada"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " bubble gum and cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": " charming"
+        },
+        {
+            "trait_type": "strength",
+            "value": " chivalry"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " unfaithful"
+        }
+    ],
+    "UUID": "9b765dd9-5d2f-4050-9583-4200e4b2d5d4",
+    "hash": "f9e38ce74d1d57e2cd60c7e137b6baed43c724e13ec3abbbcc91b6afb255108a"
+}

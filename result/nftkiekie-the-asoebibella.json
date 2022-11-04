@@ -1,0 +1,39 @@
+{
+    "format": "CHIP-0007",
+    "name": "kiekie the asoebibella",
+    "description": "Kiekie is classfied as the life of the party",
+    "minting_tool": "",
+    "filename": "kiekie-the-asoebibella",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 263,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " grey"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " blue and yellow ankara"
+        },
+        {
+            "trait_type": "expression",
+            "value": " smile"
+        },
+        {
+            "trait_type": "strength",
+            "value": " helpful "
+        }
+    ],
+    "UUID": "097014d5-0ef3-46f5-9a9b-5c01f70114b3",
+    "hash": "77581b06d62dd80612158eb8b77f38f99aee6f7dff23fbeba427fe8a2b14ddd0"
+}

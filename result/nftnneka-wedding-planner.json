@@ -1,0 +1,43 @@
+{
+    "format": "CHIP-0007",
+    "name": "nneka wedding planner",
+    "description": "Nneka plans the best weddings with great details.",
+    "minting_tool": "",
+    "filename": "nneka-wedding-planner",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 275,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown braids"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " grey"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " multicolour ankara"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " hard worker"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "analytical skills"
+        }
+    ],
+    "UUID": "31ac6b7a-e378-4dc3-999d-b9e8d8473f99",
+    "hash": "ecc9bbfb9fa51d4a1a84f661b526604e2574829ba94fa92c659fcfaea5c60f5c"
+}

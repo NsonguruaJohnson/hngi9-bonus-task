@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "kamau the sleeper",
+    "description": "closed eyes meditating",
+    "minting_tool": "",
+    "filename": "kamau-the-sleeper",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 322,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " blad eyes"
+        }
+    ],
+    "UUID": "20330f5c-40c2-4f6a-b9d8-d1d04fb97daf",
+    "hash": "03c8658142593677dc499ff6d1d212f51975e7439afa842ae00cc5c3df6e4130"
+}

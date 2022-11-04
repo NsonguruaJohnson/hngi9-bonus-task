@@ -1,0 +1,37 @@
+{
+    "format": "CHIP-0007",
+    "name": "cardy h sharp babe",
+    "description": "Cardy is the sharpest amongst her friends",
+    "minting_tool": "",
+    "filename": "cardy_h-sharp-babe",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 183,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " two brown bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue  teeth"
+        },
+        {
+            "trait_type": "lack of fear"
+        },
+        {
+            "trait_type": "confidence",
+            "value": " weakness"
+        },
+        {
+            "trait_type": "",
+            "value": "misleading"
+        },
+        {
+            "trait_type": "influencing people"
+        }
+    ],
+    "UUID": "7241a7c2-59da-11ed-9b6a-0242ac120002",
+    "hash": "50e31cf16e91205dd0ffbc3463b045de61af9cd623d45f55a23be89891ccf85b"
+}

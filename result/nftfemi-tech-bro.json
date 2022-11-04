@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "femi tech bro",
+    "description": "A rookie in the tech industry.",
+    "minting_tool": "",
+    "filename": "femi-tech-bro",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 92,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara top with blue suspenders"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " green necklace"
+        },
+        {
+            "trait_type": "expression",
+            "value": " mischievous"
+        },
+        {
+            "trait_type": "strength",
+            "value": " creativity"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " procastination"
+        }
+    ],
+    "UUID": "ba3ec22a-13d5-4e19-9b7f-aac764fda28c",
+    "hash": "2c4dded75f2cbe28f886bb14fe486e1fa656b5f7d1852556c6312a85d834f78e"
+}

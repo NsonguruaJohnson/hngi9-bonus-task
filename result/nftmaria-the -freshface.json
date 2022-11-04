@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "maria the freshface",
+    "description": "Maria likes to believe the world is sunshine and rainbows while blowing gum",
+    "minting_tool": "",
+    "filename": "maria-the -freshface",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 315,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " pink  eyes"
+        },
+        {
+            "trait_type": "greem and red ankara   accessories",
+            "value": " none  expression"
+        }
+    ],
+    "UUID": "58765d02-5ace-11ed-9b6a-0242ac120002",
+    "hash": "89f1678cc7e42557121fdae03243e3c0d9108dbdd745a6d9f961d452c84bd40b"
+}

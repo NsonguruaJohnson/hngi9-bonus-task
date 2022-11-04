@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "linda the navigator",
+    "description": "Linda knows how to make a way for herself and the people around her.",
+    "minting_tool": "",
+    "filename": "linda-the-navigator",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 36,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " blonde"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": " confused"
+        },
+        {
+            "trait_type": "strength",
+            "value": " creative"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " insecure"
+        }
+    ],
+    "UUID": "71f335a6-5a4f-4410-9cea-179336f0e498",
+    "hash": "88362f470f9486a3693e0e90045405388b40bfa7168dfefbd2c9b88e1a8d83ec"
+}

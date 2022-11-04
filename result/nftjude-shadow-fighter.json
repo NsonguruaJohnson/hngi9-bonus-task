@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "jude shadow fighter",
+    "description": "A ninja warrior; the last samurai standing.",
+    "minting_tool": "",
+    "filename": "jude-shadow-fighter",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 60,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " white"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "chain"
+        },
+        {
+            "trait_type": "expression",
+            "value": " smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "water"
+        }
+    ],
+    "UUID": "a47b2ed7-d4aa-4404-ac40-0ecea464cf3f",
+    "hash": "0ca4705ac76f3d82c8e43937308e0ff19065055515b0f16adcd7859961836350"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "yakubu the zombie",
+    "description": "Yakubu earned his zombie title because na only dust full him head.",
+    "minting_tool": "",
+    "filename": "yakubu-the-zombie",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 20,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " green and purple agbada"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": "none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "slow to understand things"
+        }
+    ],
+    "UUID": "4adb6781-1614-424e-8f77-fe59ffca2209",
+    "hash": "77d0d616a69cbf733793f2f0157a6cc613a5553d8179bf0b405a2e1cc4b89a91"
+}

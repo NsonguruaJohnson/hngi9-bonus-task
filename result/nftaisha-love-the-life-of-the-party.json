@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "aisha love the life of the party",
+    "description": "Aisha always party during the weekend",
+    "minting_tool": "",
+    "filename": "aisha-love-the-life-of-the-party",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 319,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " red   eyes"
+        }
+    ],
+    "UUID": "cef907a8-5afc-11ed-9b6a-0242ac120002",
+    "hash": "3bb74ab40f6bfe6a32b0287b6410da58e899413db9f7efcd95301df40a4aca3a"
+}

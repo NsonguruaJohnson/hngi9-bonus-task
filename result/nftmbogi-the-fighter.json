@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "mbogi the fighter",
+    "description": "masked up mbogi after capture",
+    "minting_tool": "",
+    "filename": "mbogi-the-fighter",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 327,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "  blackteeth"
+        }
+    ],
+    "UUID": "3a7bc3c4-1463-42ce-84c9-07337da64435",
+    "hash": "854276cb602487778ad2ab06d336fe8e42f22b6d755151239b7064cd28ad8051"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "johnathan good leader",
+    "description": "Johnathan is very progressive young man.",
+    "minting_tool": "",
+    "filename": "johnathan-good-leader",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 125,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "punk bearded man "
+        },
+        {
+            "trait_type": "eyes",
+            "value": " closed"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " white shirt and senator"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "bone face"
+        },
+        {
+            "trait_type": "strength",
+            "value": "strong"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "pride"
+        }
+    ],
+    "UUID": "241e3713-4ce3-48d0-827f-b282ae2db6c4",
+    "hash": "b377ce68ba1941f4f270ffbeba1990314efa512d3c0435b794a9005f279d9696"
+}

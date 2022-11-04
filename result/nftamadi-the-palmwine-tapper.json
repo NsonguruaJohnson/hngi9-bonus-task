@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "amadi the palmwine tapper",
+    "description": "Amadi sells his palmwine at the village square.",
+    "minting_tool": "",
+    "filename": "amadi-the-palmwine-tapper",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 382,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "shut"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " none"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " facemask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " thunder bolt"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " palmoil"
+        }
+    ],
+    "UUID": "a0586a93-7aff-43cc-8282-d081b8d6fe90",
+    "hash": "cfe6f6e1d6022cb7901f722f0cd8929cbb8067447e93db02283dfe6860ee3464"
+}

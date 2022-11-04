@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "abigail the beautiful",
+    "description": "Abigail is the k-pop stan who loves comic books.",
+    "minting_tool": "",
+    "filename": "abigail-the-beautiful",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 396,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " wavy brown curls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " aquamarine"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " drum patterned danshiki"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " earrings"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " moonbeam"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " erinle"
+        }
+    ],
+    "UUID": "fb148f97-d309-45a4-b902-4e066ca13f96",
+    "hash": "24730eb17c67fdf0e08fc75210844efa7a867eca2e64f65860ab50f421330256"
+}

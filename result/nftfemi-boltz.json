@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "femi boltz",
+    "description": "A driver hustling his way through life.",
+    "minting_tool": "",
+    "filename": "femi-boltz",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 235,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": " smart"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "03e8d36d-5bdc-4da4-8f64-c1738eb9d1db",
+    "hash": "e7790048d43c92ea7e87561c7e853e6d9d84814204fcd5bbe00688196ccd0cbd"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "barbra stark",
+    "description": "She loves fine dining and spends time with family.",
+    "minting_tool": "",
+    "filename": "barbra-stark",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 42,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " blue"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": "brave"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "food"
+        }
+    ],
+    "UUID": "4f31fd99-4918-42a9-a112-fa60ef36d5c6",
+    "hash": "469cac062a014a6ee5cf161f54f1f3bfcabb3ad8aa923ba8199d10830f59b8f7"
+}

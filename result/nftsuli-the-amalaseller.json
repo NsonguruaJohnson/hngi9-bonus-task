@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "suli the amalaseller",
+    "description": "Suli sells amala with respect and people say that's the secret to her sweet food.",
+    "minting_tool": "",
+    "filename": "suli-the-amalaseller",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 347,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " low punk"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " cat eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brown babarigai"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " furious"
+        },
+        {
+            "trait_type": "strength",
+            "value": " wealthy"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " too emotional"
+        }
+    ],
+    "UUID": "46fd4821-04dd-4f65-9290-c130a00c4c93",
+    "hash": "cb85f31914761e8da993c73693fda783dc9f659133d225e0ad3eb9ab43c2cb91"
+}

@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "mark the philanthropist",
+    "description": "A London based philantropist.",
+    "minting_tool": "",
+    "filename": "mark-the-philanthropist",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 295,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown eyes"
+        }
+    ],
+    "UUID": "b48cbd98-96c2-4ec4-9d17-2c798be5b90f",
+    "hash": "3bc746c34d2deb2640c055f33b9e9fd97ddb6ee6e1ac71e214ed150dc7c3efc7"
+}

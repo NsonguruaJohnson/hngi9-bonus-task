@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "abacha loves smoking",
+    "description": "Abacha loves taking cigarettes.",
+    "minting_tool": "",
+    "filename": "abacha-loves-smoking",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 124,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "cute braided hair "
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black ball white eye"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " mixed colors ankara wear"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "none"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": "strong"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " anger"
+        }
+    ],
+    "UUID": "8ac6d95f-0cf3-4f54-9cf2-be8834b3004c",
+    "hash": "90ba08c2c4488f2eb70f55d6545df416c4245227f4bda71dafab712632736da4"
+}

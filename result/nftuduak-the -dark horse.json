@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "uduak the dark horse",
+    "description": "Uduak looks innocent and has the whole apartment bugged",
+    "minting_tool": "",
+    "filename": "uduak-the -dark horse",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 302,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown   eyes"
+        }
+    ],
+    "UUID": "58764862-5ace-11ed-9b6a-0242ac120002",
+    "hash": "ddf52dc4f613f2e6af5b15248591391e1653a41b70506170df6ddd567868093e"
+}

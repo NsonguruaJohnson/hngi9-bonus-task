@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "nandi zulu",
+    "description": "A fierce African Queen.",
+    "minting_tool": "",
+    "filename": "nandi-zulu",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 238,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " pumpkin"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " animal skin"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " energetic"
+        },
+        {
+            "trait_type": "strength",
+            "value": " smart"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "09702bc0-d10c-48d3-a1e9-2aaa4e9f3f39",
+    "hash": "267640b63624f7ff56f15090471658da9409d1be787d069c43c69e9d05fc36a0"
+}

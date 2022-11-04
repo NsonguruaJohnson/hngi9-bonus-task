@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "abang the wordsmith",
+    "description": "Abang is a storyteller and connoisseur of words.",
+    "minting_tool": "",
+    "filename": "abang-the-wordsmith",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 390,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " shiny bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " whitish blue ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " amused"
+        },
+        {
+            "trait_type": "strength",
+            "value": " ironclaw"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " wood"
+        }
+    ],
+    "UUID": "94c607b3-791e-40df-bd93-50926f094143",
+    "hash": "33479679c6f54dec3aa4222fd53bfb5af584a98b7097693b6501691816b1b664"
+}

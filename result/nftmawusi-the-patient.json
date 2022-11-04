@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "mawusi the patient",
+    "description": "Meet Mawusi; the sweet sister waiting for her Canadian bobo.",
+    "minting_tool": "",
+    "filename": "mawusi-the-patient",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 370,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " print kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " beret"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "ca9ddc30-141a-493d-851b-71d34f599641",
+    "hash": "b6caf0db2462cda9302c44b96af1a0a72e56f4d6e59885b8a3b2d32a5e9bd68a"
+}

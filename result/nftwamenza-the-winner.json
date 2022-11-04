@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "wamenza the winner",
+    "description": "wamenza the leader",
+    "minting_tool": "",
+    "filename": "wamenza-the-winner",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 339,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " laid back"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none teeth"
+        }
+    ],
+    "UUID": "7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8",
+    "hash": "60bcf0620d6ee0d9b0d0e3a83be344b48b08e0cbbea3ec3dccceda0b08014c0f"
+}

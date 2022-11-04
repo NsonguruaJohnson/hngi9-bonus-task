@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "granpa willy",
+    "description": "A grandfather that drinks beer and reads newspaper all day.",
+    "minting_tool": "",
+    "filename": "granpa-willy",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 209,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " white"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " shirt"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " fashion"
+        },
+        {
+            "trait_type": "expression",
+            "value": " smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": " reading"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " drinking"
+        }
+    ],
+    "UUID": "facf7001-d028-4e00-bffc-ed1f7c005ecc",
+    "hash": "e5592204832b8b0e888be20c75c5645a8457575babc3c7ed77f1bb3d0fde0e69"
+}

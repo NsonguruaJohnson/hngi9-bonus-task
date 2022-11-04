@@ -1,0 +1,43 @@
+{
+    "format": "CHIP-0007",
+    "name": "shola cool kid",
+    "description": "Shola prefers to be alone because he hates stress.",
+    "minting_tool": "",
+    "filename": "shola-cool-kid",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 28,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none clothing"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " red facecap"
+        },
+        {
+            "trait_type": "expression",
+            "value": " playful"
+        },
+        {
+            "trait_type": "strength",
+            "value": " fun"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " playful"
+        }
+    ],
+    "UUID": "3ac5c186-bc14-4eb6-8567-cc818465a64f",
+    "hash": "00102d63e9825d79d5b3fcb3a70cee8a50a8f94b40721e3f23f758c9afdefc54"
+}

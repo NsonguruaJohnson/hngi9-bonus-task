@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "jagaban of afrobeats",
+    "description": "Jagaban is a party mover who wows the crowd with his theatrics.",
+    "minting_tool": "",
+    "filename": "jagaban-of-afrobeats",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 386,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " sleepy"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " black danshiki with patterns"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " facemask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " illusions"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " mirrors"
+        }
+    ],
+    "UUID": "784f0f6b-4273-4a31-88d7-2455b96c9011",
+    "hash": "8d62f8fd0d9fd178644b1f875ee09bb46f93ef1396705efa189658e0b5991e7b"
+}

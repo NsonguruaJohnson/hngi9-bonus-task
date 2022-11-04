@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "tope the baller",
+    "description": "Tope is an alte fashion king in Lagos who spends most of his nights at the club.",
+    "minting_tool": "",
+    "filename": "tope-the-baller",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 384,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " shiny bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " aquamarine"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " none"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " childlike"
+        },
+        {
+            "trait_type": "strength",
+            "value": " healing"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " fire"
+        }
+    ],
+    "UUID": "311a6713-66c9-43ce-82d8-e3ce03a87a81",
+    "hash": "7cc9e6930b05b7268ac925106f81357a3925c912d07db23c4861bfaa0df0a105"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "joe the plain",
+    "description": "Plain and simple and no one in town is more gentle that broda Joe.",
+    "minting_tool": "",
+    "filename": "joe-the-plain",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 168,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " watery blue eye"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " tongue out"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " agbada"
+        },
+        {
+            "trait_type": "expression",
+            "value": " happy"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " face cap"
+        },
+        {
+            "trait_type": "strength",
+            "value": " handling situation"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " overthinking"
+        }
+    ],
+    "UUID": "7a3083bd-5aa2-48b5-a30b-4445cc060f57",
+    "hash": "aee575409ee15139632c2975472d4a64b2671d6f2c0bbcf535fe8ca335ab3068"
+}

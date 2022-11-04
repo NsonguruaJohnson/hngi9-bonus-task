@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "femi the badguy",
+    "description": "Femi is one of the fliest guys in Lagos.",
+    "minting_tool": "",
+    "filename": "femi-the-badguy",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 30,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " orange"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " white t-shirt and blue dongaris"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " smoking pipe"
+        },
+        {
+            "trait_type": "expression",
+            "value": " unbothered"
+        },
+        {
+            "trait_type": "strength",
+            "value": " fearless"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " intolerance"
+        }
+    ],
+    "UUID": "e493e3fb-a8a0-455a-854f-0f6474bbc69f",
+    "hash": "aef5cf52f012667bb9f61f33256b178ab912f5b2082020427297d2cf23e58a0c"
+}

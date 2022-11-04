@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "vampire girl",
+    "description": "She dresses up as a vampire every haloween.",
+    "minting_tool": "",
+    "filename": "vampire-girl",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 219,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " puff-puff"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " two"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " blouse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " bite"
+        },
+        {
+            "trait_type": "strength",
+            "value": " biting"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "3bba4477-d84a-440f-af66-12690ea8b2e4",
+    "hash": "a0218e3cd64c9617e0b7a36a5cf8f34402f2a3a3b1a0a3b9d8a47dfa40675478"
+}

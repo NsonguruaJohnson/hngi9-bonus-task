@@ -1,0 +1,50 @@
+{
+    "format": "CHIP-0007",
+    "name": "emeka the driver",
+    "description": "Emeka is a fixture on the bustling streets of Lagos.",
+    "minting_tool": "",
+    "filename": "emeka-the-driver",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 389,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " print kente"
+        },
+        {
+            "trait_type": "accessory",
+            "value": " gold glasses"
+        },
+        {
+            "trait_type": "beret"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "dacbbb38-087d-4248-8085-13b619da0ef9",
+    "hash": "c55274ba2a5a3e4b4b7c023771aadd490a2d13169ba9c0c887305f9e2bc28b8a"
+}

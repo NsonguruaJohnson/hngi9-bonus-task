@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "ayo web3 bro",
+    "description": "Someone with no actual knowledge of basic computer principles.",
+    "minting_tool": "",
+    "filename": "ayo-web3-bro",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 97,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " gap tooth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " sleeveless ankara top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " green necklace"
+        },
+        {
+            "trait_type": "expression",
+            "value": " terrified"
+        },
+        {
+            "trait_type": "strength",
+            "value": " tolerant"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " illiterate"
+        }
+    ],
+    "UUID": "c137ec2b-18cd-4c29-a194-af29ac9e6c1c",
+    "hash": "fd15e3a4082b96d1bfe88ec558943091dbacf660d1723c8d1d5c1b797ed28a45"
+}

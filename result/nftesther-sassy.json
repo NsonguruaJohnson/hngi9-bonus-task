@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "esther sassy",
+    "description": "A rude lady.",
+    "minting_tool": "",
+    "filename": "esther-sassy",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 86,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " grey"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " animal print"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " necklace & earrings"
+        },
+        {
+            "trait_type": "expression",
+            "value": " bold"
+        },
+        {
+            "trait_type": "strength",
+            "value": " confident"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " judgemental"
+        }
+    ],
+    "UUID": "0642a25a-966d-446f-b021-a6d18e7fa0c5",
+    "hash": "8be51c25da5b8636c89b7c0a14eed15aff64d07b73926a4d506f40b38a486a88"
+}

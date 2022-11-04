@@ -1,0 +1,48 @@
+{
+    "format": "CHIP-0007",
+    "name": "emeka the chief",
+    "description": "Crowd are always at Emeka's house because of his selflessness.",
+    "minting_tool": "",
+    "filename": "emeka-the-chief",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 356,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " closed eyes"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " pakaja attire"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " bossing"
+        },
+        {
+            "trait_type": "strength",
+            "value": " easily comman respect"
+        },
+        {
+            "trait_type": "weaknes",
+            "value": " not a ladies man"
+        }
+    ],
+    "UUID": "195e89c8-0b6f-43ad-9a2c-d20f03439e96",
+    "hash": "f0221179cc11f5c47f0105766b91d50626f39a138a5db84eae83f8b71e517bfd"
+}fda100070bac2421df089ee"
+}

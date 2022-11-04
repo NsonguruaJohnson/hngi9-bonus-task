@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "ankara scarlett",
+    "description": "Scarlett is a tailor at yaba market and she loves what she does.",
+    "minting_tool": "",
+    "filename": "ankara-scarlett",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 402,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " orange bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " closed"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara mixed with black material dress"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " unethusiastic"
+        },
+        {
+            "trait_type": "strength",
+            "value": " fashion"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " timidity"
+        }
+    ],
+    "UUID": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39",
+    "hash": "87c75cb2dc32be6acbd6e8c0c1244ea5cd536507ed5998f520117393cb353588"
+}

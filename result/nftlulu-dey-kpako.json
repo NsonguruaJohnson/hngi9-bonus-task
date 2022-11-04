@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "lulu dey kpako",
+    "description": "She's is as enthusiastic as she is beautiful.",
+    "minting_tool": "",
+    "filename": "lulu-dey-kpako",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 50,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " blue"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " smiling"
+        },
+        {
+            "trait_type": "strength",
+            "value": " loving"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " makeup"
+        }
+    ],
+    "UUID": "23b6c38f-ab84-4565-bfe9-d9eb019c9f29",
+    "hash": "707ff730aac6ed8bf2e07e625a77ce257fda22a66524f4b249eacd28aa68fb13"
+}

@@ -1,0 +1,27 @@
+{
+    "format": "CHIP-0007",
+    "name": "afrogirl sailor",
+    "description": "She loves to sail the ocean",
+    "minting_tool": "",
+    "filename": "afrogirl-sailor",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 200,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none  teeth"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " pride"
+        }
+    ],
+    "UUID": "7241cc66-59da-11ed-9b6a-0242ac120002",
+    "hash": "d96a069b5f9dce4b42ffd8876675e0553156ca886e70499024ceaccaafc84d28"
+}

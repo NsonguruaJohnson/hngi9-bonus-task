@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "joshua gang leader",
+    "description": "A boy born to ritualist parents and now runs his own gang.",
+    "minting_tool": "",
+    "filename": "joshua-gang-leader",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 210,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " gold"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " shirt"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " ponk"
+        },
+        {
+            "trait_type": "expression",
+            "value": " suspicion"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "cc3c5c06-df96-4a0d-a09f-3359c21191f6",
+    "hash": "bb58fe719dc127da0995bebf2bfee15dfa81407f42ef5321cf4046ab8027ffe6"
+}

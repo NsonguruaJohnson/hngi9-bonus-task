@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "isaya the track king",
+    "description": "isaya the traveller",
+    "minting_tool": "",
+    "filename": "isaya-the-track-king",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 340,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none eyes"
+        }
+    ],
+    "UUID": "41781a16-d2b8-4fc6-a1f4-b9fffc5c95ba",
+    "hash": "3413d75c52a68b0b02abca99a8c402309da7afc0e4ae4e662134df23d94466ac"
+}

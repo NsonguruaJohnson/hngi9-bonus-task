@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "tayo tailor",
+    "description": "A professional fashion designer.",
+    "minting_tool": "",
+    "filename": "tayo-tailor",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 83,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " orange shirt"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": " inquisitive"
+        },
+        {
+            "trait_type": "strength",
+            "value": " creativity"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " opinionated"
+        }
+    ],
+    "UUID": "70828783-ac38-48cf-b966-cfebc92ebd86",
+    "hash": "431242c2caddd73ef214a45c513a98c29304b134dbb331fe72e23354232a9f71"
+}

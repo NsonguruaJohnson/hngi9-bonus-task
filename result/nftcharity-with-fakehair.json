@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "charity with fakehair",
+    "description": "A girl with a bald hair but always wears wig to cover her head.",
+    "minting_tool": "",
+    "filename": "charity-with-fakehair",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 206,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " orange"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " glasses"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " blouse"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " normal"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " barbing-saloon"
+        }
+    ],
+    "UUID": "efc0f7f5-d90b-46cc-be0b-6fcaa23a5422",
+    "hash": "d6e1181eadcbb066b3c6fda48e2446f9fd338b3b8ebad6ab6b410a21c97bcbc4"
+}

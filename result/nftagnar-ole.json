@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "agnar ole",
+    "description": "A man who feels like an outcast and always has a battle with his mind.",
+    "minting_tool": "",
+    "filename": "agnar-ole",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 79,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " opened"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " overall"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " nose mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " furious"
+        },
+        {
+            "trait_type": "strength",
+            "value": " strong willed"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " crying"
+        }
+    ],
+    "UUID": "f3f11fd0-59d2-11ed-9b6a-0242ac120002",
+    "hash": "364375d12ab0794a5db4c3ae437071e5922e8758228304ae4ad7c9fa25b14c82"
+}

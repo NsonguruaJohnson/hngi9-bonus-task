@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "madame ngozi",
+    "description": "Ngozi make heads turn with her beautiful collection of materials from all over Africa.",
+    "minting_tool": "",
+    "filename": "madame-ngozi",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 420,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " red afro"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ghana kente dress"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " yellow sunglasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": " pissed"
+        },
+        {
+            "trait_type": "strength",
+            "value": " money"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " pride"
+        }
+    ],
+    "UUID": "7ecdbb1d-9a89-4136-b240-499051836979",
+    "hash": "a324550d879b0bba5c3de962bb88cd9c9db2d73127d83834d3ee72e63daf8a6f"
+}

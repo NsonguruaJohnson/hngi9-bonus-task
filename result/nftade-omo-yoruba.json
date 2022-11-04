@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "ade omo yoruba",
+    "description": "Ade is an influential man and he is revered in his town.",
+    "minting_tool": "",
+    "filename": "ade-omo-yoruba",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 27,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " complete white teeth and a gold tooth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " black and yellow kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " wine cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": " hardworking"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " procrastination"
+        }
+    ],
+    "UUID": "92984fa0-310b-4377-8a10-15965d044383",
+    "hash": "4d036a0fe35470c69007dffb9bef65868810a0fc50aa50a8a112506cad6892d5"
+}

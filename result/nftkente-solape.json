@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "kente solape",
+    "description": "A respectful and diligent princess.",
+    "minting_tool": "",
+    "filename": "kente-solape",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 232,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " blanch"
+        },
+        {
+            "trait_type": "strength",
+            "value": " bold"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "613ce65c-4b16-43f8-a0d9-b5ea8c5f2195",
+    "hash": "f24e442fd2ee89ea619c8ba20fbbc34014ca1006b5abf2cd1f1039f6468d2e57"
+}

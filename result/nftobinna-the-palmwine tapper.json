@@ -1,0 +1,50 @@
+{
+    "format": "CHIP-0007",
+    "name": "obinna the palmwine tapper",
+    "description": "Obinna taps palmwine for a living.",
+    "minting_tool": "",
+    "filename": "obinna-the-palmwine tapper",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 32,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " yellow"
+        },
+        {
+            "trait_type": "black and a touch of pink ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": " happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": " contentment"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " naive"
+        }
+    ],
+    "UUID": "0f1af056-2548-4407-bed4-abc11deae05d",
+    "hash": "bc1f7c391641153b6deca5e8c9ced48edcd54f0f51f4949fdc65529279238db4"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "tunde the boss",
+    "description": "Tunde is a boss that loves to take charge at work.",
+    "minting_tool": "",
+    "filename": "tunde-the-boss",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 114,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " capped"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " opened"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " native cloth"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " cooks well"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " bossy"
+        }
+    ],
+    "UUID": "7635c4ee-04f6-4872-bfc9-37e5a73c8fc6",
+    "hash": "dcda625d6e7d213f4fc868f8466ce32f0ade9806e0de34e565058e4126e7ad84"
+}

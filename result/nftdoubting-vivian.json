@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "doubting vivian",
+    "description": "Vivian just like the thomas in the bible; she doubts all.",
+    "minting_tool": "",
+    "filename": "doubting-vivian",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 414,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " long red braid"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " red ankara one hand dress"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " pissed"
+        },
+        {
+            "trait_type": "strength",
+            "value": " logic"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " trust issues"
+        }
+    ],
+    "UUID": "a0282797-44ef-4bfb-a701-e4ed5e727d63",
+    "hash": "9f7cf03254a866c9e7af4681329e0427c3b0e12763047a02596decbe1b83877f"
+}

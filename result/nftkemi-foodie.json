@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "kemi foodie",
+    "description": "Kemi loves food and can also prepare good meals. ",
+    "minting_tool": "",
+    "filename": "kemi-foodie",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 117,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black har with scarf"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " partly opened"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " one hand style"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " can cook very well"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " dirtiness"
+        }
+    ],
+    "UUID": "3116cb6f-14c4-4d5a-af57-54253b72a309",
+    "hash": "cd3bbd3d6ab8632de1d906803796681468ca83d87aed91dbcc0575e416012428"
+}

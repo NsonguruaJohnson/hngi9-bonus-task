@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "addae the unretired",
+    "description": "Mummy Addae; the hot grandma that has refused to retire.",
+    "minting_tool": "",
+    "filename": "addae-the-unretired",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 376,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " danshiki"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " choker necklace"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9",
+    "hash": "a820a7d61506e76c6809c0da918b366c74b2a8dd7842e3cfe9973bea147fa5dd"
+}

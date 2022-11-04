@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "nnena pretty girl",
+    "description": "Nnena is beautiful girl that loves to talk about her beauty.",
+    "minting_tool": "",
+    "filename": "nnena-pretty-girl",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 113,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown bob marley"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " open"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " covered"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " african print"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " sucker"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " giver"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " possesive"
+        }
+    ],
+    "UUID": "d9477612-ad63-408e-8d12-24679c647b32",
+    "hash": "92f23bdc17bb3e738fea7de7a243db6b2487699d5b18e9bc81f54637eb369ad9"
+}

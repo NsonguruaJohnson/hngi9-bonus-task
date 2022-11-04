@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "ashanti the gold seller",
+    "description": "Ashanti is a well known gold trader whose trinkets are one of a kind.",
+    "minting_tool": "",
+    "filename": "ashanti-the-gold seller",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 398,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown curly bun"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " deep brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " multicoloured kento"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " pipe"
+        },
+        {
+            "trait_type": "expression",
+            "value": " amused"
+        },
+        {
+            "trait_type": "strength",
+            "value": " lovefist"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " easily deceived"
+        }
+    ],
+    "UUID": "80b51092-3fbc-4d0c-8518-fc461ccb6c80",
+    "hash": "6f3ff85f596e2a5fde044a5bf6b7c01228c9bc1b72a25124d0236e2d89c533f6"
+}

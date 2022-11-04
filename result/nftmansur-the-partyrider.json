@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "mansur the partyrider",
+    "description": "Mansur is the life of a party and never caught dulling.",
+    "minting_tool": "TEAM RULER",
+    "filename": "mansur-the-partyrider",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 341,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " ash grey"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " agbda"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " studs"
+        },
+        {
+            "trait_type": "expression",
+            "value": "happy"
+        },
+        {
+            "trait_type": "strength",
+            "value": " intelligent"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " red whine"
+        }
+    ],
+    "UUID": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd",
+    "hash": "455beb1e01594a430ad68ba46cbc03181ceb2a951eb5d6c93839e246fcf15097"
+}

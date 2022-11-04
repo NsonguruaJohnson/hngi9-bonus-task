@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "sandra money",
+    "description": "Sandra likes getting and spending money.",
+    "minting_tool": "",
+    "filename": "sandra-money",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 39,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " none"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow and black"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": " confused"
+        },
+        {
+            "trait_type": "strength",
+            "value": " brave"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " overthinker"
+        }
+    ],
+    "UUID": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca",
+    "hash": "fe45929d39bed76346aa03944a56ad6715a519b871b630d2d27a5aeb8645c327"
+}

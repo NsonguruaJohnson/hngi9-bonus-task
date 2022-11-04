@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "emeka the businessman",
+    "description": "Emeka only cares about containers. No time to waste.",
+    "minting_tool": "",
+    "filename": "emeka-the-businessman",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 10,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " orange"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " mask"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " hard worker"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "9b3d75da-4887-4089-aee4-50de3954fdc9",
+    "hash": "8594c54cedfe58520b46b4f8a067054f79fcc2243d4c9540b91d8293e3200dd5"
+}

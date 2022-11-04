@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "leo sugarmummy",
+    "description": "A middle age wild yankee returnee.",
+    "minting_tool": "",
+    "filename": "leo-sugarmummy",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 225,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " pumpkin"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " leopard skin"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " wild"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "7ec03993-f500-4a41-aa3c-a73df7a0fbed",
+    "hash": "896056d0bbc0e30014a4a25d328c6cc038959b7785f63d30eebad4cd9e741db0"
+}

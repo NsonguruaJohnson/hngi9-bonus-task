@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "brian richkid",
+    "description": "A trust fund baby that does not know how to manage money.",
+    "minting_tool": "",
+    "filename": "brian-richkid",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 237,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none "
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " proud "
+        },
+        {
+            "trait_type": "strength",
+            "value": " smart"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "9d945d79-dd2d-4755-b9c7-bff837be8557",
+    "hash": "3d9777efbb8183882586b8cb0ea846d096e3573db58aaf0e50c0285a669d27db"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "akpos agbero",
+    "description": "A Warri boy always in the mood for violence.",
+    "minting_tool": "",
+    "filename": "akpos-agbero",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 249,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " rabbit front teeth"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " brown polo and blue pinafore"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " cap"
+        },
+        {
+            "trait_type": "expression",
+            "value": " angry"
+        },
+        {
+            "trait_type": "strength",
+            "value": " physically fit"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " short-tempered"
+        }
+    ],
+    "UUID": "70875603-9e90-467f-9d44-af15f71b70e9",
+    "hash": "0064dc83444a7a815d5265b94b18f6fce58a52bf5d5e12fb589b9406610c0784"
+}

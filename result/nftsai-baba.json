@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "sai baba",
+    "description": "A leader of a third-world country.",
+    "minting_tool": "",
+    "filename": "sai-baba",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 93,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " off-shoulder ankara top"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " earrings & necklace"
+        },
+        {
+            "trait_type": "expression",
+            "value": " anxious"
+        },
+        {
+            "trait_type": "strength",
+            "value": " trend spotter"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " distracted easily"
+        }
+    ],
+    "UUID": "fdfff369-5b57-4612-9f89-f5d408f24a35",
+    "hash": "ad2e5ed664a7cfd963414119de2a92ea7530844847371f1fbc140fd53d377c22"
+}

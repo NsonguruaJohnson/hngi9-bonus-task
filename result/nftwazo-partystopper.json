@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "wazo partystopper",
+    "description": "A Nigerian aunty that loves to attend owambe parties.",
+    "minting_tool": "",
+    "filename": "wazo-partystopper",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 223,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " white"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " aso oke"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": " energetic"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "77237cce-bae0-4d60-adad-27055f0eed39",
+    "hash": "76e0b7cd1c28287745b8603f554af941978dd8af1eaf66a54f0a213df442e2ab"
+}

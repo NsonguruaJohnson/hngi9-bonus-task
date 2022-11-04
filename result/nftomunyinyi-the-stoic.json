@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "omunyinyi the stoic",
+    "description": "omunyinyi wears a Kitenge coat",
+    "minting_tool": "TEAM SANDPAPER",
+    "filename": "omunyinyi-the-stoic",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 321,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald eyes"
+        }
+    ],
+    "UUID": "c2d6a3ac-1d4d-4268-ba7f-4f0f8f50c1ab",
+    "hash": "fee5be4c1e7ff6d0c5d31c1ccc375652fffe9e0f9bf5ad5c65f2582d605ee6b7"
+}

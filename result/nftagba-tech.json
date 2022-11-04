@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "agba tech",
+    "description": "A tech bro that loves to party but has bad communication skill.",
+    "minting_tool": "",
+    "filename": "agba-tech",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 236,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " ankara"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " proud"
+        },
+        {
+            "trait_type": "strength",
+            "value": " smart"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "403f28a0-6aa7-4f80-997f-b0982c169baa",
+    "hash": "36a503ec0c1d874791fcbf99702a69e696538432ac092cb03a8d08cb2dcb9f0c"
+}

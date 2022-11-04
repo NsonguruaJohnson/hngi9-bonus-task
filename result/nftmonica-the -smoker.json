@@ -1,0 +1,19 @@
+{
+    "format": "CHIP-0007",
+    "name": "monica the smoker",
+    "description": "Monica is never found without a pipe and loves to interject in every conversation.",
+    "minting_tool": "",
+    "filename": "monica-the -smoker",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 316,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " grey   eyes"
+        }
+    ],
+    "UUID": "58765e24-5ace-11ed-9b6a-0242ac120002",
+    "hash": "2918347d2228040e6b2f0f94f3c2d5b4b7747ddb0f985198a71120585dfae251"
+}

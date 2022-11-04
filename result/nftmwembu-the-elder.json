@@ -1,0 +1,23 @@
+{
+    "format": "CHIP-0007",
+    "name": "mwembu the elder",
+    "description": "old but not so old, with yellow his favorite color",
+    "minting_tool": "",
+    "filename": "mwembu-the-elder",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 326,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " black teeth"
+        }
+    ],
+    "UUID": "36181230-6ac9-417f-af5c-23bdd2c25ecb",
+    "hash": "04ac88447abe052a674ef9b64a5ce4aaa288a3d9fc08b95878d0af41a576ad3d"
+}

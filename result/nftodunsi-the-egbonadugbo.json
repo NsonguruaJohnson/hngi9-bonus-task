@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "odunsi the egbonadugbo",
+    "description": "Odunsi loves to advise and people in the community rely on him.",
+    "minting_tool": "",
+    "filename": "odunsi-the-egbonadugbo",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 345,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " dark brown"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " one shoulder gown"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " elegant"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " easily depressed"
+        }
+    ],
+    "UUID": "2912ab8b-5875-4277-a5c2-a0209aee90ae",
+    "hash": "0422423413ea9e376601f8ade75229dd74fcec86c5306335ee26ab4711272716"
+}

@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "zarifa the righteous",
+    "description": "Meet Zarifa; a proper baddie for Christ.",
+    "minting_tool": "",
+    "filename": "zarifa-the-righteous",
+    "gender": "Female",
+    "sensitive_content": false,
+    "series_number": 367,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " pink"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " blue"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " v-neck original kente"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " none"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " none"
+        }
+    ],
+    "UUID": "c6955d16-c343-46bc-9bed-c069ea8cc65a",
+    "hash": "2629e7ec5501128b661bceabcfba3c83fa2e3fbecdd1289563e1b45cdd956b43"
+}

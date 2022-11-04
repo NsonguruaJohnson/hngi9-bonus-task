@@ -1,0 +1,47 @@
+{
+    "format": "CHIP-0007",
+    "name": "nnamdi the barber",
+    "description": "Nnamdi is a barber that devotes time to perfect his craft.",
+    "minting_tool": "",
+    "filename": "nnamdi-the-barber",
+    "gender": "Male",
+    "sensitive_content": false,
+    "series_number": 115,
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " brown afro"
+        },
+        {
+            "trait_type": "eyes",
+            "value": " open"
+        },
+        {
+            "trait_type": "teeth",
+            "value": " smokey"
+        },
+        {
+            "trait_type": "clothing",
+            "value": " africa print"
+        },
+        {
+            "trait_type": "accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": "expression",
+            "value": " none"
+        },
+        {
+            "trait_type": "strength",
+            "value": " determined"
+        },
+        {
+            "trait_type": "weakness",
+            "value": " loves clubbing"
+        }
+    ],
+    "UUID": "152758f3-9414-45a2-a809-95cb05a3de13",
+    "hash": "44501ab63101411ebf687fed097cd2a988a76353ba3ffa3646c684d6d06f654a"
+}
